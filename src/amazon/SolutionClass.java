@@ -577,6 +577,6 @@ public class SolutionClass {
         	else if(direction == 2)
         		result[0] -= commands[i];
         }
-        return 1;
+        return 0;
     }
 }
